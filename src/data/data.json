@@ -1,0 +1,33 @@
+{
+    "status": "success",
+    "data": [
+        {
+            "id": 1,
+            "platform": "LeetCode",
+            "username": "someshjoyguru",
+            "max-rating" : 1993,
+            "current-rating": 1981
+        },
+        {
+            "id": 2,
+            "platform": "Codeforces",
+            "username": "someshjoyguru",
+            "max-rating" : 1277,
+            "current-rating": 1277
+        },
+        {
+            "id": 3,
+            "platform": "Codechef",
+            "username": "someshjoyguru",
+            "max-rating" : 1705,
+            "current-rating": 1705
+        },
+        {
+            "id": 4,
+            "platform": "GeeksforGeeks",
+            "username": "someshjoyguru",
+            "max-rating" : 1844,
+            "current-rating": 1844
+        }
+    ]
+}
