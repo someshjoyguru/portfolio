@@ -1,6 +1,6 @@
 {
     "status": "success",
-    "data": [
+    "profiles": [
         {
             "id": 1,
             "platform": "LeetCode",
@@ -28,6 +28,31 @@
             "username": "someshjoyguru",
             "max-rating" : 1844,
             "current-rating": 1844
+        }
+    ],
+    "projects":[
+        {
+            "id":1,
+            "title":"CodeON - Your programming guide by seniors",
+            "github-url":"",
+            "project-url":"",
+            "tags":["React.js", "Node.js", "MongoDB", "Gemini", "Flask"],
+            "description":[
+                "Implemented a secure authentication system with unique credentials for accessing the portal.",
+                "Added Coding Stats using CF API, used cloudinary for image storage, integrated Community Posts and added leaderboard with auto fetching ratings from codeforces.",
+                "Utilized Google Gemini LLM models to generate summaries of posts shared by seniors. Implemented a loader and concurrent api requests for improving performance of application by 30%."
+            ]
+        },
+        {
+            "id":2,
+            "title":"EcoFind - Your eco-friendly shopping companion",
+            "github-url":"",
+            "project-url":"",
+            "tags":["NLP", "Python", "Numpy", "Sklearn", "Google Colab", "Pandas"],
+            "description":[
+                "Cleansed data and applied feature engineering and keyword filtering on the datasets extracting almost 90% of eco-friendly products from the Kaggle Dataset.",
+                "Utilized text vectorization, cosine similarity and serialization of data using pickle module"
+            ]
         }
     ]
 }

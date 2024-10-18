@@ -28,7 +28,7 @@ const App: React.FC = () => {
       <CodingProfiles />
       <ResearchSection />
       <ProjectSection />
-      <FooterSection />
+      {/* <FooterSection /> */}
       
     </div>
   );
